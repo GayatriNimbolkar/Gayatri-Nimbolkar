@@ -1,5 +1,6 @@
 
-<h1> Hi there..! <img src="https://github.com/GayatriNimbolkar/Gayatri-Nimbolkar/blob/master/wave.gif" width="29px"> </h1>
+<h1> Hi there..!
+  Gayatri here <img src="https://github.com/GayatriNimbolkar/Gayatri-Nimbolkar/blob/master/wave.gif" width="29px"> </h1>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Gayatri Nimbolkar alt=Gayatri Nimbolkar> </p>
 
 **🔭 I’m currently exploring new languages**
@@ -20,6 +21,8 @@
 **🌱 Looking forward to learn:** <br>
 <br>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
+
 <br>
 <br>
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=GayatriNimbolkar&show_icons=true&hide_border=true)
