@@ -33,8 +33,7 @@
 <br>
 <br>
 
-**💬 Get connected with me: **
-
+**💬 Get connected with me**
 <br>
 <br> 
   <a href="https://www.linkedin.com/in/gayatri-nimbolkar-8b8891212/" target="_blank">
