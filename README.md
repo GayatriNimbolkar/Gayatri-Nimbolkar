@@ -30,7 +30,6 @@
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=GayatriNimbolkar&show_icons=true&hide_border=true)
 <br>
 <br>
-
 **💬 Get connected with me:**
 <br>
 <br> 
