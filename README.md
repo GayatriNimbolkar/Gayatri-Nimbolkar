@@ -3,6 +3,8 @@
   Gayatri here <img src="https://github.com/GayatriNimbolkar/Gayatri-Nimbolkar/blob/master/wave.gif" width="29px"> </h1>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Gayatri Nimbolkar alt=Gayatri Nimbolkar> </p>
 
+**🔭 I’m currently a 2nd year computer engineering student learning from SPPU.**
+
 **🔭 I’m currently exploring new languages**
 
 **🌱 I would like to explore data science in future!**
@@ -28,8 +30,8 @@
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=GayatriNimbolkar&show_icons=true&hide_border=true)
 <br>
 <br>
-**💬 Ask me about anything, I'll be happy to help!** <br>
-**💬 My inbox is always open, Contact me**
+
+**💬 Get connected with me:**
 <br>
 <br> 
   <a href="https://www.linkedin.com/in/gayatri-nimbolkar-8b8891212/" target="_blank">
@@ -38,7 +40,6 @@
   <a href="mailto:isha.gayatrinimbolkar2952@gmail.com" target="_blank">
     <img align="left" alt="Gayatri Nimbolkar | Gmail" width="26px" src="https://github.com/GayatriNimbolkar/Gayatri-Nimbolkar/blob/master/Gmail.svg" />
   </a>
-  
   <a href="https://www.instagram.com/isha_gayatrinimbolkar/" target="_blank">
     <img align="left" alt="Gayatri Nimbolkar | Instagram" width="24px" src="https://github.com/GayatriNimbolkar/Gayatri-Nimbolkar/blob/master/Instagram.svg" />
   </a>
