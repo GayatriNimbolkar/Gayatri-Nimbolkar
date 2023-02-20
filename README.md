@@ -3,7 +3,7 @@
   Gayatri here <img src="https://github.com/GayatriNimbolkar/Gayatri-Nimbolkar/blob/master/wave.gif" width="29px"> </h1>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Gayatri Nimbolkar alt=Gayatri Nimbolkar> </p>
 
-**🔭 I’m currently a 2nd year computer engineering student learning from SPPU.**
+**🔭 I’m currently a 3rd year computer engineering student learning from SPPU.**
 
 **🔭 I’m currently exploring new languages**
 
